@@ -1,1 +1,1 @@
-Live Demo  ----   https://portfolioadarshgautam.netlify.app/
+Live Demo  ----  https://adarshgautamportfolio.netlify.app/
